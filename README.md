@@ -117,7 +117,7 @@ Financial-Analytics-Dashboard/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sindhu Sahito**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
